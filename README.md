@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Albert
 - 👀 I’m interested in something
-- 🌱 I’m currently learning css
+- 🌱 I’m currently just doing some stuff
 - 📫 How to reach me t.me/PigletPeter
 
 <!---
